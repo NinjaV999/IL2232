@@ -1,1 +1,1 @@
-# IL2232_NoC
+Please check Readme.pdf
