@@ -1,0 +1,181 @@
+Slot_size: 64
+type_1_num: 349; type_2_num: 270
+End of routing algorithm.
+0
+Generator Send 1
+Generator Send 2
+Generator Send 3
+1
+Generator Send 4
+Generator Send 5
+2
+Generator Send 6
+Generator Send 7
+Generator Send 8
+Generator Send 9
+Generator Send 10
+Generator Send 11
+Master Port send: 1
+Master Port send: 2
+Master Port send: 3
+3
+Generator Send 12
+Generator Send 13
+Generator Send 14
+Master Port send: 4
+Master Port send: 5
+4
+Generator Send 15
+Generator Send 16
+Generator Send 17
+Generator Send 18
+Generator Send 19
+Generator Send 20
+Master Port send: 6
+Master Port send: 7
+Master Port send: 8
+Master Port send: 9
+Master Port send: 10
+Master Port send: 11
+5
+Generator Send 21
+Generator Send 22
+Master Port send: 12
+Master Port send: 13
+Master Port send: 14
+6
+Generator Send 23
+Generator Send 24
+Master Port send: 15
+Master Port send: 16
+Master Port send: 17
+Master Port send: 18
+Master Port send: 19
+Master Port send: 20
+7
+Generator Send 25
+Generator Send 26
+Generator Send 27
+Master Port send: 21
+Master Port send: 22
+8
+Generator Send 28
+Generator Send 29
+Generator Send 30
+Master Port send: 23
+Master Port send: 24
+9
+Generator Send 31
+Generator Send 32
+Generator Send 33
+Master Port send: 25
+Master Port send: 26
+Master Port send: 27
+10
+Generator Send 34
+Generator Send 35
+Generator Send 36
+Generator Send 37
+Generator Send 38
+Master Port send: 28
+Master Port send: 29
+Master Port send: 30
+11
+Generator Send 39
+Generator Send 40
+Generator Send 41
+Generator Send 42
+Generator Send 43
+Master Port send: 31
+Master Port send: 32
+Master Port send: 33
+12
+Generator Send 44
+Generator Send 45
+Generator Send 46
+Generator Send 47
+Master Port send: 34
+Master Port send: 35
+Master Port send: 36
+Master Port send: 37
+Master Port send: 38
+13
+Generator Send 48
+Generator Send 49
+Master Port send: 39
+Master Port send: 40
+Master Port send: 41
+Master Port send: 42
+Master Port send: 43
+14
+Generator Send 50
+Master Port send: 44
+Master Port send: 45
+Master Port send: 46
+Master Port send: 47
+15
+Generator Send 51
+Generator Send 52
+Generator Send 53
+Generator Send 54
+Master Port send: 48
+Master Port send: 49
+16
+Generator Send 55
+Generator Send 56
+Generator Send 57
+Generator Send 58
+Generator Send 59
+Master Port send: 50
+17
+Generator Send 60
+Generator Send 61
+Master Port send: 51
+Master Port send: 52
+Master Port send: 53
+Master Port send: 54
+18
+Generator Send 62
+Generator Send 63
+Generator Send 64
+Generator Send 65
+Master Port send: 55
+Master Port send: 56
+Master Port send: 57
+Master Port send: 58
+Master Port send: 59
+19
+Generator Send 66
+Generator Send 67
+Generator Send 68
+Generator Send 69
+Master Port send: 60
+Master Port send: 61
+20
+Generator Send 70
+Generator Send 71
+Generator Send 72
+Master Port send: 62
+Master Port send: 63
+Master Port send: 64
+Master Port send: 65
+21
+Generator Send 73
+Generator Send 74
+Generator Send 75
+Generator Send 76
+Generator Send 77
+Master Port send: 66
+Master Port send: 67
+Master Port send: 68
+Master Port send: 69
+22
+Generator Send 78
+Generator Send 79
+Generator Send 80
+Generator Send 81
+Generator Send 82
+Master Port send: 70
+Master Port send: 71
+Master Port send: 72
+

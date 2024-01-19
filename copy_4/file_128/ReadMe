@@ -1,0 +1,12 @@
+destination.txt
+Showing the possible destinations of each node.
+
+table_ni.txt
+Showing the slot table in the NI connected to each node
+
+table_router.txt
+Showing the slot table in each router
+
+traffic_mode.txt
+Showing the "request" number of one node to other nodes in each slot loop <32, 64 or 128 slots>.
+Response is not considered.
